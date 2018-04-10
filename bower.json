@@ -1,0 +1,21 @@
+{
+  "name": "Slider",
+  "homepage": "https://github.com/AliTon/InstagramSlider",
+  "authors": [
+    "AliTon <tonoyanalbert94@gmail.com>"
+  ],
+  "description": "Simple jQuery slider like an instagrem story",
+  "main": "main.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "jquery-ui": "^1.12.1"
+  }
+}
